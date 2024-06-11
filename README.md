@@ -1,9 +1,28 @@
-Hi 👋, I'm Luiz Philippe!
+Hello, I'm Luiz Philippe! 👋
 
-a graduate in Information Systems from Centro Universitário UNA. I have extensive experience in software development, focusing on C# and Python, with a particular emphasis on the Blazor framework. Throughout my career, I have worked on various projects, ranging from developing web systems to notification applications, always striving for innovative and high-quality solutions.
+I'm a passionate Software Developer from Brazil 🇧🇷
 
-My career includes positions as a C# and Web Developer, where I developed and maintained applications using advanced technologies, and as an R&D Intern, collaborating on impactful projects. I hold several certifications and possess technical skills in C#, Python, Blazor, software development, databases, automation, cloud computing, Git, Docker, and agile methodologies. I am always ready to take on new challenges and contribute exceptional results.
+About me
+💼 C# and Web Developer at Freelancer.com
 
- 
+📈 Contributed to numerous projects, developing innovative solutions with a focus on quality and performance
+
+❤️ I love coding in C# and Python, and building cutting-edge web applications with Blazor
+
+💬 Ask me about anything related to software development, especially in C#, Python, and Blazor
+
+Skills
+C#
+Python
+Blazor
+JavaScript
+HTML
+CSS
+SQL Server
+Git
+Docker
+Cloud Computing
+Agile Methodologies
+
 
 	
